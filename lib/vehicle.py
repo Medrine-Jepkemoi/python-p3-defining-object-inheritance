@@ -10,7 +10,7 @@ class Vehicle:
     def fill_up_tank(self):
         return "filling up!"
 
-# nissan = Vehicle(4, 45)
-# nissan.go
+nissan = Vehicle(4, 45)
+print(nissan.go())
 
         
